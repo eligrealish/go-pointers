@@ -25,3 +25,4 @@ var3 type : int%
 
 ## Other notes 
 * Pointers are a type
+* How does it work with return types?
