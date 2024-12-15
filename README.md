@@ -1,4 +1,5 @@
-#output
+# Output
+```bash
 eli@Elis-MacBook-Pro-2 go_pointers % go run  .
 variables initalised
 var1  : 3, type : int, memory adress : 0x14000112018
@@ -15,3 +16,4 @@ var1  : 3, type : int, memory adress : 0x14000112018
 var2  : 6, type : int, memory adress : 0x14000112020
 var3  : 6, type : int, memory adress : 0x14000112020
 var3 type : int%                      
+```
