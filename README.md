@@ -17,3 +17,6 @@ var2  : 6, type : int, memory adress : 0x14000112020
 var3  : 6, type : int, memory adress : 0x14000112020
 var3 type : int%                      
 ```
+# Two times you use pointers 
+* To change the value of varaible when passing it to a function
+* To opimsie perforamce - optimising performance can be difficult and only should be done if necessary
